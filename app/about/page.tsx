@@ -81,19 +81,19 @@ export default function AboutPage() {
               bio="With over 3 years of experience in digital marketing and Development."
             />
             <TeamMember
-              image="/images/milan.png"
+              image="/images/Milan.png"
               name="Milan Tamang"
               role="CEO"
               bio="Expert in AI implementation and digital transformation."
             />
             <TeamMember
-              image="/images/binisha1.png"
+              image="/images/Binisha1.png"
               name="Binisha Mishra"
               role="Managing Director"
               bio="Digital marketing strategist with a passion for creativity and innovation."
             />
               <TeamMember
-              image="/images/sandesh.png"
+              image="/images/Sandesh.png"
               name="Sandesh Bista"
               role="Chief Finance Officer"
               bio="Expert in financial management and business strategy."
