@@ -81,7 +81,7 @@ export default function AboutPage() {
               bio="With over 3 years of experience in digital marketing and Development."
             />
             <TeamMember
-              image="/images/Milan.png"
+              image="/images/WhatsApp Image 2025-02-20 at 17.37.48_c5cf6883.jpg"
               name="Milan Tamang"
               role="CEO"
               bio="Expert in AI implementation and digital transformation."
